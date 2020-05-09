@@ -46,5 +46,4 @@ Realizar los analisis de punto de operación, transitorio y por supuesto ac
 
 
 
-
 En las conclusiones incluir la comparativa vista entre los efectos entre los tres OPAM
