@@ -1,0 +1,50 @@
+Estructura:
+ 1. Introducción
+ 2. OPAM comercial cualquiera o el que diga el programa
+	.1 paso baja
+		.1 Butterworth
+		.2 Cauer
+ 3. 350 nm bien comercial bien el hecho de Rogelio
+	.1 paso baja
+		.1 Butterworth
+		.2 Cauer
+ 4. 180 nm bien comercial bien el que acaben Moscosio-Mendoza
+	.1 paso baja
+		.1 Butterworth
+		.2 Cauer
+ 5. Conclusiones
+
+
+///////////////////////////
+Notas del proyecto:
+1-Centrarnos en los comerciales sobre todo porque no podemos 
+	confiar en que Moscosio-Mendoza acaben a tiempo el suyo
+
+2-Para cada caso hacer 2 configuraciones, la Sallen-Key y otra bien
+	la multirealimentada o la Morley según los casos para ver como
+	cambian las cosas y si nos dan mucha lata o no
+
+3-Como frecuencia de corte usamos una inferior a la del OPAM
+
+4-El análisis de transitorio lo debemos hacer excitando con señales
+	complejas como sumas de senos de varias frecuencias.
+	Mirar también la fase en este análisis
+
+5-Si cuando tengamos todo con paso baja, le preguntamos a Rogelio y dice
+	que no es mucho, hacemos también el paso banda 
+
+///////////////////////////
+Planning:
+
+Hacer el estudio teórico de los 3 OPAM (quizá hacer el de los 2 primero y dejar el de 180)
+Construir los filtros del mismo orden y mismas características para ver la
+	comparativa exacta entre Butterworth y elíptico
+Jugar con cada par de posibilidades de construcción (celda Sallen-Key etc)
+Realizar los analisis de punto de operación, transitorio y por supuesto ac
+
+
+
+
+
+
+En las conclusiones incluir la comparativa vista entre los efectos entre los tres OPAM
