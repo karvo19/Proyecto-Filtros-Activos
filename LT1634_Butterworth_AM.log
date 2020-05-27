@@ -1,0 +1,175 @@
+Circuit: * C:\Users\Alvaro\Documents\universidad\Asignaturas\Cuarto\Instrumentación y Acondicionamiento de señal\Proyecto-Filtros-Activos\LT1634_Butterworth_AM.asc
+
+WARNING: Less than two connections to node VIN.  This node is used by V5.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03922
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.02313
+vernier = 0.00520833
+vernier = 0.00260417
+Gmin = 1.01616
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+Gmin = 1.01205
+vernier = 0.00115741
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.0104
+vernier = 0.00102881
+Gmin = 1.00812
+vernier = 0.000514403
+vernier = 0.00068587
+Gmin = 1.00704
+vernier = 0.000514403
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 1.00622
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 9.09979%
+Source Step = 9.12938%
+Source Step = 9.15897%
+Source Step = 9.18857%
+Source Step = 9.21816%
+Source Step = 9.24775%
+vernier = 0.00146484
+Source Step = 9.29066%
+Source Step = 9.33505%
+Source Step = 9.37944%
+Source Step = 9.42383%
+Source Step = 9.46822%
+vernier = 0.00219727
+Source Step = 9.53036%
+Source Step = 9.59695%
+Source Step = 9.66353%
+Source Step = 9.73011%
+Source Step = 9.7967%
+vernier = 0.0032959
+Source Step = 9.88659%
+Source Step = 9.98646%
+Source Step = 10.0863%
+Source Step = 10.1862%
+Source Step = 10.2861%
+vernier = 0.00494385
+Source Step = 10.4159%
+Source Step = 10.5657%
+Source Step = 10.7156%
+Source Step = 10.8654%
+Source Step = 11.0152%
+vernier = 0.00741577
+Source Step = 11.2024%
+Source Step = 11.4272%
+Source Step = 11.6519%
+Source Step = 11.8766%
+Source Step = 12.1013%
+vernier = 0.0111237
+Source Step = 12.371%
+Source Step = 12.7081%
+Source Step = 13.0452%
+Source Step = 13.3822%
+Source Step = 13.7193%
+vernier = 0.0166855
+Source Step = 14.107%
+Source Step = 14.6126%
+Source Step = 15.1182%
+Source Step = 15.6238%
+Source Step = 16.1294%
+vernier = 0.0250282
+Source Step = 16.6856%
+Source Step = 17.4441%
+Source Step = 18.2025%
+Source Step = 18.9609%
+Source Step = 19.7193%
+vernier = 0.0375423
+Source Step = 20.5157%
+Source Step = 21.6533%
+Source Step = 22.791%
+Source Step = 23.9286%
+Source Step = 25.0663%
+Source Step = 26.2039%
+vernier = 0.0563135
+Source Step = 27.9104%
+Source Step = 29.6169%
+Source Step = 31.3233%
+Source Step = 33.0298%
+Source Step = 34.7363%
+vernier = 0.0844703
+Source Step = 37.2107%
+Source Step = 39.7704%
+Source Step = 42.3301%
+Source Step = 44.8898%
+Source Step = 47.4495%
+vernier = 0.126705
+Source Step = 51.0331%
+Source Step = 54.8726%
+Source Step = 58.7122%
+Source Step = 62.5517%
+Source Step = 66.3913%
+vernier = 0.190058
+Source Step = 71.5747%
+Source Step = 77.334%
+Source Step = 83.0934%
+Source Step = 88.8527%
+Source Step = 94.6121%
+vernier = 0.285087
+Source Step = 100%
+Source Step = 100%
+Source stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u7:1)
+Ignoring empty pin current: Ix(u7:2)
+Ignoring empty pin current: Ix(u8:1)
+Ignoring empty pin current: Ix(u8:2)
+Ignoring empty pin current: Ix(u9:1)
+Ignoring empty pin current: Ix(u9:2)
+Ignoring empty pin current: Ix(u10:1)
+Ignoring empty pin current: Ix(u10:2)
+Ignoring empty pin current: Ix(u11:1)
+Ignoring empty pin current: Ix(u11:2)
+Ignoring empty pin current: Ix(u12:1)
+Ignoring empty pin current: Ix(u12:2)
+Ignoring empty pin current: Ix(u7:1)
+Ignoring empty pin current: Ix(u7:2)
+Ignoring empty pin current: Ix(u8:1)
+Ignoring empty pin current: Ix(u8:2)
+Ignoring empty pin current: Ix(u9:1)
+Ignoring empty pin current: Ix(u9:2)
+Ignoring empty pin current: Ix(u10:1)
+Ignoring empty pin current: Ix(u10:2)
+Ignoring empty pin current: Ix(u11:1)
+Ignoring empty pin current: Ix(u11:2)
+Ignoring empty pin current: Ix(u12:1)
+Ignoring empty pin current: Ix(u12:2)
+
+Date: Sat May 16 12:40:14 2020
+Total elapsed time: 1.286 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 10346
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 64
+fillins = 62
+solver = Normal
+Matrix Compiler1:     366 opcodes
+Matrix Compiler2: off  [1.0]/1.8/1.2
+
